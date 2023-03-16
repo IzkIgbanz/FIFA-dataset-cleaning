@@ -1,2 +1,3 @@
 # FIFA-dataset-cleaning
-FIFA dataset cleaning
+
+![](FIFA_21.jpg)
