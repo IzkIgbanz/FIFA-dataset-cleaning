@@ -60,7 +60,19 @@ This was the final outcome of the columns
 ![](Screenshot(56).png)
 
 
-In total hits made by each player, some players made over a thousand hits and they were indicated with a ‘K’, for example, there were figures like ‘1.6k’ total hits. This was sorted using the ‘substitute’ function. 
+In total hits made by each player, some players made over a thousand hits and they were indicated with a ‘K’, for example, there were figures like ‘1.6k’ total hits. This was sorted using the same function as the above problem.
+
+Picture 1              |   Picture 2
+:---------------------:|:-----------------------:
+![](Screenshot(49).png)| ![](Screenshot(51).png)
+
+
+In conclusion, the purpse of this project was to get a cleaner dataset for analysis. 
+
+This Challenge came with new experiences and problems which made it really exciting and beautiful to work with.
+
+
+
 
 
 
