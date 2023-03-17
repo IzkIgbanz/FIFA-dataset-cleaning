@@ -57,6 +57,7 @@ Thirdly, after realizing this was what I wanted, I converted the figures to doll
 This was the final outcome of the columns
 
 
+![](Screenshot(56).png)
 
 
 In total hits made by each player, some players made over a thousand hits and they were indicated with a ‘K’, for example, there were figures like ‘1.6k’ total hits. This was sorted using the ‘substitute’ function. 
