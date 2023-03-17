@@ -2,7 +2,17 @@
 
 ![](FIFA_21.jpg)
 
-**A data cleaning done on Excel!** 
+
+
+## A data cleaning done on Excel!  
+
+This was a Data Cleaning Challenge done using a raw FIFA data. 
+Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset.
+Data cleaning is necessary and compulsory as it ensures an accuracy in analysis without any bias 
+It provides provides clearer insights
+
+
+# The data Cleaning Challenge
 
 Finding a column to clean or identifying a dirty data is the first and a trickish step.
 
@@ -67,9 +77,11 @@ Picture 1              |   Picture 2
 ![](Screenshot(49).png)| ![](Screenshot(51).png)
 
 
-In conclusion, the purpse of this project was to get a cleaner dataset for analysis. 
+
+## Conclusion
 
 This Challenge came with new experiences and problems which made it really exciting and beautiful to work with.
+Although, there were challenges encountered during the cleaning, the dataset was properly cleaned and transformed
 
 
 
