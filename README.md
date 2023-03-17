@@ -32,22 +32,30 @@ Star symbols attached to the end of the figure was taken off using the LEFT func
 This was also applied to the players’ skill moves rating column as well as the Players’ weak foot rating column.
 
 
-All these were major obstacles and were of different levels of difficulty but while working on the Players’ worth column, I met a different type of difficulty.
+All these were major obstacles and were of different levels of difficulty but while working on the Players’ worth, wage and release clause column, I met a different type of difficulty.
 
 
-This particular column is all about the players worth and it had its own peculiarity in terms of being unclean.
+This particular column had its own peculiarity in terms of being unclean.
 
 Its figures were in Euros, the figures were written in short form, and they all had a ‘M’ or ‘K’ which represents its unit, for example, ‘€103.3M’ or ‘€905K’.
 
 
-![](Screenshot(49).png)
+![](Screenshot(52).png)
 
 I think these are supposed to be written properly and in full, so I began working on them and these were the steps I used that worked for me;
 
 Firstly, I created a different column that took away the ‘€’ from the figures using the ‘MID’ function. Using the example above, I was left with ‘103.2M’ and ‘905K’
 
 Secondly, I created another column to take care of the ‘M’ and ‘K’ in the column. I had to use a very complicated and combination of different functions to achieve what I want. The function used was ‘IFNA(LEFT(U2,LEN(U2)-1)*CHOOSE(MATCH(RIGHT(U2,1),{"K","M"},0),1000,1000000),U2)’
-Thirdly, after realizing this was what I wanted, I converted the figures to dollars by multiplying it with the current exchange.
+
+
+![](Screenshot(55).png)
+
+
+Thirdly, after realizing this was what I wanted, I converted the figures to dollars by multiplying it with the current exchange and inserted the dollar sign.
+
+This was the final outcome of the columns
+
 
 
 
