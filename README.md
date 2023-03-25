@@ -25,7 +25,7 @@ After uploading it on Google Sheet. Here is the outcome
 
 ![](Screenshot(47).png)
 
-This took care of all unwanted characters in most cells espaecially those on the names.
+This took care of all unwanted characters in most cells especially those on the names.
 
 
 the file was saved to an excel format and reopened in the excel sheet.
